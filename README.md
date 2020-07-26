@@ -6,4 +6,4 @@ Therefore, it is derived from the consciousness of overcoming these accidents an
 
 It can reduce the incidence of safety accidents caused by transportation equipment, improve the speed of faster and more accurate logistics circulation, and if it is settled stably, it can present a new paradigm in terms of society.
 
-Please have a look at the overview file for better understanding.
+**Please head over to the overview file for better understanding.**
