@@ -5,3 +5,5 @@ As can be seen from statistical indicators, safety accidents due to transportati
 Therefore, it is derived from the consciousness of overcoming these accidents and develops a system that the machine performs quickly and accurately if only a command is given, rather than directly using transportation equipment.
 
 It can reduce the incidence of safety accidents caused by transportation equipment, improve the speed of faster and more accurate logistics circulation, and if it is settled stably, it can present a new paradigm in terms of society.
+
+Please have a look at the overview file for better understanding.
